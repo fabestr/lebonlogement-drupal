@@ -1273,3 +1273,13 @@ border-left: 1px solid; border-right: 1px solid; height: 40px; margin-left: -36p
     display: block;
   }
 }
+
+
+.field__label {
+  font-weight: bold;
+  margin-top:2em;
+}
+
+.field__items {
+  display:flex;
+}
